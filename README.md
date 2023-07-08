@@ -16,8 +16,6 @@ https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/te
 <h1>pdfs folder has more study materials</h1><br>
 Introduction to Generative AI: pdfs/1 - Intro to GENAI.pdf<br>
 
-Introduction to Large Language Models: 
-pdfs/2 - LLM.pdf <br>
+Introduction to Large Language Models: pdfs/2 - LLM.pdf <br>
 
-Introduction to Generative AI Studio: 
-pdfs/3 - GENAISTUDIO.pdf <br>
+Introduction to Generative AI Studio: pdfs/3 - GENAISTUDIO.pdf <br>
