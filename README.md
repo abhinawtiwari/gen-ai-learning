@@ -13,9 +13,9 @@ https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/te
 Encoder decoder resource
 https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/text_generation.ipynb
 
-Pdfs folder has more documents
-Introduction to Generative AI
-pdfs/1 - Intro to GENAI.pdf
+Pdfs folder has more documents<br>
+Introduction to Generative AI<br>
+pdfs/1 - Intro to GENAI.pdf<br>
 
 Introduction to Large Language Models
 pdfs/2 - LLM.pdf
