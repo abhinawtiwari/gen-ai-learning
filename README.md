@@ -1,24 +1,23 @@
 # gen-ai-learning
 Generative AI Learning Materials
 
-Introduction to Generative AI Studio: Reflection Cards
+Introduction to Generative AI Studio: Reflection Cards <br>
 https://storage.googleapis.com/cloud-training/cls-html5-courses/T-GENAISTUDIO-B/index.html#/
 
-Image captioning
+Image captioning <br>
 https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/multi_modal/solutions/image_captioning.ipynb
 
-Transformer models and BERT
+Transformer models and BERT <br>
 https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/classify_text_with_bert.ipynb
 
-Encoder decoder resource
+Encoder decoder resource <br>
 https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/text_generation.ipynb
 
 Pdfs folder has more documents<br>
-Introduction to Generative AI<br>
-pdfs/1 - Intro to GENAI.pdf<br>
+Introduction to Generative AI: pdfs/1 - Intro to GENAI.pdf<br>
 
-Introduction to Large Language Models
-pdfs/2 - LLM.pdf
+Introduction to Large Language Models: 
+pdfs/2 - LLM.pdf <br>
 
-Introduction to Generative AI Studio
-pdfs/3 - GENAISTUDIO.pdf
+Introduction to Generative AI Studio: 
+pdfs/3 - GENAISTUDIO.pdf <br>
